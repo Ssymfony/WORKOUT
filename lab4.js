@@ -14,9 +14,6 @@ function bubbleSort(array) {
     }
     return array
 }
-console.log('length', arr.length)
-console.log(bubbleSort(arr))
-console.log('count =', count)
 
 let arr1 = bubbleSort(arr);
 let arr2 = ['one', 'two','three'];
